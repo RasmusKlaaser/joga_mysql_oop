@@ -13,4 +13,4 @@ app.use('/', articleRoutes)
 
 app.listen(3025, () => {
     console.log('Server is running on port 3025')
-})
+}) 
